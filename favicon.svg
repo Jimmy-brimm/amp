@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Icône d'AMP : les barres de son aux couleurs des notes, sur un carré sombre arrondi -->
+  <rect width="64" height="64" rx="14" fill="#0d0d10"/>
+  <rect x="11" y="33.5" width="6.4" height="17.5" rx="2.4" fill="#F2545B"/>
+  <rect x="20" y="20.2" width="6.4" height="30.8" rx="2.4" fill="#F79A3E"/>
+  <rect x="29" y="11" width="6.4" height="40" rx="2.4" fill="#3DBE7A"/>
+  <rect x="38" y="27" width="6.4" height="24" rx="2.4" fill="#1FB5C9"/>
+  <rect x="47" y="16.6" width="6.4" height="34.4" rx="2.4" fill="#4B6BFB"/>
+</svg>
